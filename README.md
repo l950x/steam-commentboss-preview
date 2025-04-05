@@ -26,12 +26,6 @@ Steam-CommentBoss is a powerful tool designed to **automate Steam community inte
 
 The tool intelligently tracks progress, ensuring that links are not commented on multiple times. It features automatic login detection, preventing disruptions if Steam logs out. Additionally, a detailed logging system keeps track of every action, making it easy to monitor progress, errors, and interactions.
 
-## ⚙️ Installation
-
-```bash
-The access to the script is restricted, contact me if you want to use it
-```
-
 ## 📑 Demo
 
 <div align="center">Scraper Running</div>
@@ -41,7 +35,7 @@ The access to the script is restricted, contact me if you want to use it
 </p>
 <hr/>
 
-<div align="center">Auto-Commenter in Action</div>
+<div align="center">- Auto-Commenter in Action</div>
 <br/>
 <p align="center">
 <img src="./gifs/comment.gif" width="400"/>
@@ -61,6 +55,12 @@ The access to the script is restricted, contact me if you want to use it
 <img src="./gifs/ratelimit.gif" width="400"/>
 </p>
 <hr/>
+
+## ⚙️ Installation
+
+```bash
+The access to the script is restricted, contact me if you want to use it
+```
 
 ## 📃 License
 
