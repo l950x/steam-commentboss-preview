@@ -37,32 +37,30 @@ The access to the script is restricted, contact me if you want to use it
 <div align="center">Scraper Running</div>
 <br/>
 <p align="center">
-<img src="./assets/gifs/scraper.gif" width="700"/>
+<img src="./gifs/scrapper.gif" width="400"/>
 </p>
 <hr/>
 
 <div align="center">Auto-Commenter in Action</div>
 <br/>
 <p align="center">
-<img src="./assets/gifs/commenter.gif" width="700"/>
+<img src="./gifs/comment.gif" width="400"/>
 </p>
 <hr/>
 
 <div align="center">Progress selection</div>
 <br/>
 <p align="center">
-<img src="./assets/gifs/gui.gif" width="700"/>
+<img src="./gifs/progress.gif" width="400"/>
 </p>
 <hr/>
 
 <div align="center">Rate limit detection</div>
 <br/>
 <p align="center">
-<img src="./assets/gifs/gui.gif" width="700"/>
+<img src="./gifs/ratelimit.gif" width="400"/>
 </p>
 <hr/>
-
-
 
 ## 📃 License
 
